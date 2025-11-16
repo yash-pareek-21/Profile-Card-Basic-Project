@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(192, 238, 247);
+}
+#me{
+    width: 300px; 
+    border-radius: 20px;
+    margin-left: 9px;
+    box-shadow: rgb(50, 46, 46) 2px 2px;
+}
+#parent_div{
+    background-color: white;
+    width: 320px;
+    height: 400px;
+    padding: 10px;
+    margin-top: 150px;
+    margin-left: 450px;
+    border: 1px rgb(201, 205, 243);
+    border-width: 1px;
+    border-style:solid;
+    border-radius: 20px;
+    box-shadow: rgb(93, 93, 95) 2px 2px;
+}
+span{
+    border-style: solid;
+    margin-right: 20px;
+    /* background-color: rgb(234, 163, 163); */
+    border-radius: 9px;
+    padding: 8px;
+    border-width: 1px;
+    
+}
+p{
+    width: 300px;
+    text-shadow: rgb(71, 62, 62) 0.2px 0.2px;
+    
+}
+#child_div{
+    margin: 8px;
+    padding: 4px;
+}
+button{
+    margin: 5px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
+button:hover{
+    background-color: black;
+    color: white;
+    cursor:grab;
+}
+#dev{
+    margin-left: 80px;
+    /* padding-left: 80px; */
+}
+h1{
+    text-shadow: rgb(71, 62, 62) 1px 1px;
+}
